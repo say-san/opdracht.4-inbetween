@@ -1,0 +1,97 @@
+body {
+  margin: auto;
+  color: rgb(66, 49, 49);
+  background-color: rgb(252, 252, 240);
+  font-size: 16px;
+  font-family: tahoma;
+  width: 80%;
+}
+
+.box-1 {
+  color: #bb901b;
+  text-align: center;
+}
+
+.box-2 {
+  background-color: rgb(252, 252, 240);
+  border: 10px solid #879679;
+  width: 355px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-decoration: goldenrod;
+}
+
+.pic-1 {
+  border: 12px solid #879679;
+  margin-top: 0px;
+}
+
+.pic-2 {
+  border: 15px solid black;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.p-1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.p-2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 1.5em;
+}
+
+.unl-1 {
+  line-height: 1.5em;
+}
+
+h3 {
+  padding: 15px 10px 15px 10px;
+}
+
+.nav-1 {
+  text-align: center;
+}
+
+a {
+  font-style: italic;
+  color: #1d2714;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(218, 80, 0);
+}
+
+a:visited {
+  color: rgb(85, 19, 3);
+}
+
+.pic-3 {
+  width: 30%;
+  padding: 15px;
+  margin-left: 100px;
+  float: right;
+  background-color: #879679;
+}
+
+.head {
+  border: 5px solid rgb(221, 182, 182);
+  margin-top: 20px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
+
+#main-content {
+  border: 10px solid rgb(49, 33, 49);
+  margin-top: 20px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
